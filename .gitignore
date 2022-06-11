@@ -1,0 +1,8 @@
+__pycache__/
+.vscode/
+
+build/
+dist/
+
+documents/My First MDR/output/
+documents/My First MDR/dist/

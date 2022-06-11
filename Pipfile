@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+
+[packages]
+docx-mailmerge = "*"
+openpyxl = "*"
+pywin32 = "*"
+pypdf3 = "*"
+wxpython = "*"
+pyinstaller = "*"
+setuptools = "*"
+
+[requires]
+python_version = "3"
